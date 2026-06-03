@@ -61,3 +61,5 @@ R² Score
 Conclusion
 
 The model demonstrated an exceptionally strong relationship between opening and closing stock prices, achieving an R² score of 99.97%.
+
+🔗LinkedIn Update: https://www.linkedin.com/posts/glory-anaga_dataanalytics-python-codvedajourney-share-7467472261059457025-WDd6/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEzcjzYBKYK0E8nWmeqz2AhiJ-Qde3g72iM
